@@ -2,22 +2,17 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
-- 🔭 I’m now Junior, currently studying in Beijing.
+- 🔭 I’m now Junior, currently studying in Beijing 🇨🇳.
 - 🤔 I’m looking for help with Postgraduate Study.
 - 📫 How to reach me: 2639980156(QQ)
 ### Data Analysis
 <div>
 <a herf="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a>
-<a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY-code&langs_count=4&layout=compact&hide=javascript,css,coffeescript" height=130/></a>
+<a herf="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY-code&langs_count=4&layout=compact&hide=javascript,css,coffeescript" height=130/></a>
 </div>
-
+**National 1st prize** winning works of the National Software Innovation Competition (sponsored by the National Exemplary Software College Alliance)
 
 ### Award-Winning work
-
-**National 1st prize** winning works of the National Software Innovation Competition 
-
-(sponsored by the National Exemplary Software College Alliance)
-
 <div>
 <a href="https://github.com/GY-code/Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GY-code&repo=Vision" height=130/></a>
 </div>
