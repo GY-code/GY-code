@@ -1,6 +1,8 @@
 # Hi, I'm Gu Yi 👋
 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
+
 
 - 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*.
 - 🤔 I’m looking for help with **Postgraduate Study**.  [*Resume*](resume.pdf)
