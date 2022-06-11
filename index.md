@@ -50,10 +50,10 @@ _2020. 09_&emsp;Research on Image Defogging based on Deep Learning
 
 ### Awards
 #### Learning
-Siyuan Times scholarship (3 students /year), the Merit Student in BJTU				
-Academic Year Scholarship for Academic Excellence (2 academic years awarded)			
+Siyuan Times scholarship **(3 students /year in grade)**, the Merit Student in BJTU<br>
+Academic Year Scholarship for Academic Excellence **(2 academic years awarded)**			
 #### Working
-President of Student Union in SSE of BJTU, Classroom Teacher Assistant 			
+**President** of Student Union in SSE of BJTU, Classroom Teacher Assistant<br>
 Academic Year Scholarship for Working Excellence 
 ### English Skills
 GRE&emsp;*2021.10*&emsp;**312/340** <br>
