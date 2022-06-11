@@ -99,8 +99,6 @@ Backend
 
 </td><td valign="top" width="30%">
 
-
-
 DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -110,5 +108,4 @@ DevOps
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 </div>
-
 </td></tr></table>  
