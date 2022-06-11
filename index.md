@@ -16,7 +16,7 @@
 
 
 ### Practical &Research Experience
-*2022. 03* The 15th National College Software Competition（OPPO Inc., National Alliance of Model Software School）
+*2022. 03*&emsp;The 15th National College Software Competition&emsp;（OPPO Inc., National Alliance of Model Software School）
 <br>**National 1st Prize (0.8%)**
 - As the project leader, with the task of Multi-device Fusion Application, I was responsible for leading my team to design and implement the integrated fusion solution of multi-device camera preview, acquisition, and control with end-to-end data transmission as the main method. 
 - As the only student representative, I delivered a speech at the award ceremony. As the only participating team, we participated in the official live broadcast of Color OS named Listen to Student Developers.
@@ -24,26 +24,28 @@
 <a href="https://github.com/GY-code/Vision"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GY-code&repo=Vision" height=130/></a>
 </div>
 
-*2022. 02* The 13th China Student Service Outsourcing Innovation Competition
+*2022. 02*&emsp;The 13th China Student Service Outsourcing Innovation Competition
 <br>
 **National 1st or 2nd Prize Stage**
 - As the project leader, taking the Image Invisible Watermarking as the task, I was responsible for leading my team to design and implement labels based on different content scenes which are better than the traditional methods, selected the RivaGAN network, and transformed domain methods to process the watermark, and preprocessed the anti-attack dark watermarking scheme for photos and videos. The comprehensive recognition accuracy reached 80%.
 
-_2020. 09_ Research on Image Defogging based on Deep Learning	
+_2020. 09_&emsp;Research on Image Defogging based on Deep Learning	
 <br>
 **College Students' Innovation Project**
 - As the project leader, with the goal of Deep Learning Image Defogging, I was responsible for leading my team to design and implement the addition of an efficient channel attention module before the decoder of the gated context aggregation network GCANet of the original defogging network, so as to improve the network's ability to extract image cross-channel information. The SSIM of the improved network was 5.8% higher than that of the original network.
 
-*2021. 02* COMAP's Mathematical Contest in Modeling
+*2021. 02*&emsp;COMAP's Mathematical Contest in Modeling
 <br>**Honorable Mentions**
 - I was responsible for data sorting, prediction and visualization, and realized the neural network ResNet for image classification. After training and specifying the training set, the solution could recognize whether the picture contains Asian Bumblebee, and the recognition accuracy reached 98%.
 
-*2021. 12* National College Students Mathematical Contest in Modeling
+*2021. 12*&emsp;National College Students Mathematical Contest in Modeling
 <br>
 **Provincial 2nd Prize**				
-*2022. 03* Lanqiao Cup College Programming Individual Competition
+
+*2022. 03*&emsp;Lanqiao Cup College Programming Individual Competition
 <br>**Provincial 3rd Prize**		
-*2021. 05* The 15th Programming Competition in BJTU
+
+*2021. 05*&emsp;The 15th Programming Competition in BJTU
 <br>**2nd Prize of Professional Group**
 
 ### Awards
@@ -54,9 +56,9 @@ Academic Year Scholarship for Academic Excellence (2 academic years awarded)
 President of Student Union in SSE of BJTU, Classroom Teacher Assistant 			
 Academic Year Scholarship for Working Excellence 
 ### English Skills
-GRE *2021.10* **312/340** <br>
-CET-4 *2019.12* **592** <br>
-CET-6 *2020.12*  **504** <br>
+GRE&emsp;*2021.10*&emsp;**312/340** <br>
+CET-4&emsp;*2019.12*&emsp;**592** <br>
+CET-6&emsp;*2020.12*&emsp;**504** <br>
 ### My Skill Set
 <table><tr>
 <td valign="top" width="20%">
@@ -73,7 +75,7 @@ CET-6 *2020.12*  **504** <br>
 </td>
 <td valign="top" width="20%">
 
-**Frontend**
+Frontend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -85,7 +87,7 @@ CET-6 *2020.12*  **504** <br>
 
 
 
-**Backend**
+Backend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
@@ -99,7 +101,7 @@ CET-6 *2020.12*  **504** <br>
 
 
 
-**DevOps**
+DevOps
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
