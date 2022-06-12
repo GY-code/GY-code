@@ -11,10 +11,6 @@
 <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a>
 </div>
 
-
-
-
-
 ### Practical &Research Experience
 *2022. 03*&emsp;The 15th National College Software Competition&emsp;（OPPO Inc., National Alliance of Model Software School）
 <br>**National 1st Prize (0.8%)**
