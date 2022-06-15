@@ -2,7 +2,7 @@
 
 - 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*.
 - 🤔 I’m looking for help with **Postgraduate Study**.  [*Resume*](resume.pdf)
-- 📫 How to reach me: 2639980156 (QQ).
+- 📫 How to reach me: gy_code@qq.com.
 
 
 ### Github Repository Analysis [@GY-code](https://github.com/GY-code)
