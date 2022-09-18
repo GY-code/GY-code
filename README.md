@@ -7,7 +7,8 @@
 - 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*.
 - 🤔 I’m looking for help with **Postgraduate Study**.  [*Resume*](resume.pdf)
 - 📫 How to reach me: gy_code@qq.com.
-- [My Website](https://gy-code.github.io/GY-code/)
+
+
 ### Repository Analysis
 <div>
 <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY-code&langs_count=4&layout=compact&hide=javascript,css,coffeescript" height=130/></a>
@@ -22,20 +23,10 @@
 
 **National 1st prize** winning works of the National Software Innovation Competition 
 
-(sponsored by the National Exemplary Software College Alliance)
+(sponsored by the **OPPO Inc.** & National Exemplary Software College Alliance)
 
 ### My Skill Set
 <table><tr>
-<td valign="top" width="20%">
-
-
-
-#### Future will learn
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>  
 
 </td>
 <td valign="top" width="20%">
@@ -60,6 +51,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </div>
 
 </td><td valign="top" width="30%">
