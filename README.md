@@ -4,8 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
 
-- 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*.
-- 🤔 I’m looking for help with **Postgraduate Study**.  [*Resume*](resume.pdf)
+- 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*, a graduate student to be enrolled.
 - 📫 How to reach me: gy_code@qq.com.
 
 
