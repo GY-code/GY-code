@@ -4,15 +4,15 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fantingsheng.fantingsheng&left_color=green&right_color=red)
 
 
-- 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*, a graduate student to be enrolled.
+- 🔭 I’m now MS in School of Software, Tsinghua University.
 - 📫 How to reach me: gy_code@qq.com.
 
 
 ### Repository Analysis
 <div>
 <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY-code&langs_count=4&layout=compact&hide=javascript,css,coffeescript" height=130/></a>
-<a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a>
-</div>
+<!-- <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a>-->
+</div> 
 
 
 ### Award-Winning work
@@ -34,7 +34,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   -->
 </div>
 
 </td>
