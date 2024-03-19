@@ -1,14 +1,13 @@
 ## Hi, I'm Gu Yi 👋
 
-- 🔭 I’m now Junior, currently studying in *Software Engineering, Beijing Jiaotong University*.
-- 🤔 I’m looking for help with **Postgraduate Study**.  [*Resume*](resume.pdf)
+- 🔭 I’m now MS in School of Software, Tsinghua University.
 - 📫 How to reach me: gy_code@qq.com.
 
 
 ### Github Repository Analysis [@GY-code](https://github.com/GY-code)
 <div>
 <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GY-code&langs_count=4&layout=compact&hide=javascript,css,coffeescript" height=130/></a>
-<a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a>
+<!-- <a href="https://github.com/GY-code"><img src="https://github-readme-stats.vercel.app/api?username=GY-code&hide=contribs,prs,issues,stars&count_private=true&show_icons=true" height=130/></a> -->
 </div>
 
 ### Practical &Research Experience
